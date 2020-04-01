@@ -1,0 +1,12 @@
+﻿# python
+__pycache__
+env
+build
+dist
+*.egg-info/
+
+# pycharm IDE
+.idea
+
+# temp
+demo
